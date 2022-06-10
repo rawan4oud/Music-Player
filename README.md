@@ -33,5 +33,7 @@ The following components of the CSMB12 and the PBMCUSLK board were used:
 ## Software 
 - CodeWarrior IDE
 
+## How to Run
+
 
 ***Note**: Two additional colleagues are contributors to this project.*
