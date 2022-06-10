@@ -34,8 +34,8 @@ The following components of the CSMB12 and the PBMCUSLK board were used:
 - CodeWarrior IDE
 
 ## How to Run
-### Opening Project
-1. Open [Project.mcp](Project.mcp) file on CodeWarriors IDE
+### Opening the Project on CodeWarriors IDE
+1. Open [Project.mcp](Project.mcp) file
 2. Click *debug*
 ### Creating new Project on CodeWarriors IDE
 1. File --> New Project
