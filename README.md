@@ -35,7 +35,7 @@ The following components of the CSMB12 and the PBMCUSLK board were used:
 
 ## How to Run
 ```
-Open [.mcp]() file on CodeWarriors IDE
+Open [.mcp](/CodeWarrior Code/Project.mcp) file on CodeWarriors IDE
 ```
 
 ***Note**: Two additional colleagues are contributors to this project.*
