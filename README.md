@@ -43,7 +43,7 @@ The following components of the CSMB12 and the PBMCUSLK board were used:
 3. Select *P&E USB BDM Multilink* under: Choose your default connection
 4. Click next
 5. Unselect C and select *Absolute assembly*
-6. Rename project name and select its corresponding path as desired
+6. Rename project name and select its corresponding path *(Optional)*
 7. Click finish
 8. Copy the contents of [Project.mcp](Project.mcp)
 9. Click *debug*
