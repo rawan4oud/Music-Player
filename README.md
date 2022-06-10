@@ -34,6 +34,8 @@ The following components of the CSMB12 and the PBMCUSLK board were used:
 - CodeWarrior IDE
 
 ## How to Run
-
+```
+Open .mcp file on CodeWarriors IDE
+```
 
 ***Note**: Two additional colleagues are contributors to this project.*
