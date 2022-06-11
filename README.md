@@ -4,6 +4,21 @@ This repo contains an implementation of a music player using HCS12 assembly lang
 ## Description 
 The buzzer component of the PBMCUSLK board plays parts of two distinctive songs. The chosen songs are *Au Clair de la Lune* and *I Love You (by Barney)*. 
 
+## Hardware
+- CSMB12 
+- PBMCUSLK
+
+## Components
+The following components of the CSMB12 and the PBMCUSLK board were used:
+- Buzzer
+- LCD
+- Four LEDs
+- Two push buttons
+
+## Software 
+- CodeWarrior IDE
+
+
 ## Features
 The following are the set of features corresponding to this project:
 - The user can choose to play any of the two songs using two push buttons, each corresponding to one the two songs.
@@ -19,19 +34,6 @@ The following are the set of features corresponding to this project:
 - If the other push button is pressed, the other song starts playing.
 - Pressing the same push button again restarts the song. The LEDs will refresh their blinking and the LCD will reset the lyrics. 
 
-## Components
-The following components of the CSMB12 and the PBMCUSLK board were used:
-- Buzzer
-- LCD
-- Four LEDs
-- Two push buttons
-
-## Hardware
-- CSMB12 
-- PBMCUSLK
-
-## Software 
-- CodeWarrior IDE
  
 ***Note**: Two additional colleagues are contributors to this project.*
 
