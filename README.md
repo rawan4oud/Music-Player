@@ -32,20 +32,12 @@ The following components of the CSMB12 and the PBMCUSLK board were used:
 
 ## Software 
 - CodeWarrior IDE
-
-## How to Run
-### Opening the Project on CodeWarriors IDE
-1. Open [Project.mcp](Project.mcp) 
-2. Click *debug*
-### Creating new Project on CodeWarriors IDE
-1. File --> New Project
-2. Select *MC9S12DT256* under: *Select the derivative you would like to use*
-3. Select *P&E USB BDM Multilink* under: Choose your default connection
-4. Click next
-5. Unselect C and select *Absolute assembly*
-6. Rename project name and select its corresponding path *(Optional)*
-7. Click finish
-8. Copy the contents of [Project.mcp](Project.mcp)
-9. Click *debug*
  
 ***Note**: Two additional colleagues are contributors to this project.*
+
+## Video Demos
+[Au Clair de la Lune](https://user-images.githubusercontent.com/92987443/173164341-d5f707db-d3e3-4a12-8fcc-83835466c913.mp4)
+
+[I Love You (by Barney)](https://user-images.githubusercontent.com/92987443/173164455-879d14c0-682d-441c-bd38-fb33f932983c.mp4)
+
+
