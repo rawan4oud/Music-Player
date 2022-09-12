@@ -1,5 +1,5 @@
 # 🎶 Music Player 🎶
-This repo contains an implementation of a music player using HCS12 assembly language on an [MC9S12DT256 Freescale microcontroller](https://html.alldatasheet.com/html-pdf/126901/FREESCALE/MC9S12DT256/490/1/MC9S12DT256.html), interfaced with [CSMB12](https://www.axman.com/content/csmb12-module) and mounted on the [PBMCUSLK board](https://www.nxp.com/pages/mcu-project-board:PBMCUSLK).
+This repo contains an implementation of a music player on an [MC9S12DT256 Freescale microcontroller](https://html.alldatasheet.com/html-pdf/126901/FREESCALE/MC9S12DT256/490/1/MC9S12DT256.html), interfaced with the [CSMB12 Module](https://www.axman.com/content/csmb12-module), mounted on the [PBMCUSLK project board](https://www.nxp.com/pages/mcu-project-board:PBMCUSLK), and written in Assembly Language using the instruction set for the Motorola MC9S12DT256 microprocessor.
 
 ## Description 
 The buzzer component of the PBMCUSLK board plays parts of two distinctive songs. The chosen songs are *Au Clair de la Lune* and *I Love You (by Barney)*. 
