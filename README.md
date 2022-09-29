@@ -35,7 +35,7 @@ The following are the set of features corresponding to this project:
 - Pressing the same push button again restarts the song. The LEDs will refresh their blinking and the LCD will reset the lyrics. 
 
  
-***Note**: Two additional colleagues are contributors to this project.*
+***Note**: Two additional colleagues have contributed to this project.*
 
 ## Video Demos
 [Au Clair de la Lune](https://user-images.githubusercontent.com/92987443/173164341-d5f707db-d3e3-4a12-8fcc-83835466c913.mp4)
